@@ -1,0 +1,2 @@
+# ClassCompilerAnnotationProcessor
+Android编译时注解处理器，实现View绑定

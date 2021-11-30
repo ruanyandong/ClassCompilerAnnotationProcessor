@@ -1,0 +1,6 @@
+include ':apt-runtime'
+include ':apt-api'
+include ':apt-processor'
+include ':apt-annotation'
+include ':app'
+rootProject.name = "AndroidAPT"

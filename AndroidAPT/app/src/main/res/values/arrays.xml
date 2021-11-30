@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="languages">
+        <item>php</item>
+        <item>xml</item>
+        <item>html</item>
+    </string-array>
+
+    <integer-array name="int_array" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <array name="common_array">
+        <item>中国</item>
+        <item>美国</item>
+        <item>俄罗斯</item>
+    </array>
+
+    <string-array name="cs_language">
+        <item>@string/android</item>
+        <item>@string/java</item>
+        <item>@string/c</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+// java模块
+plugins {
+    id 'java-library'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    compileOnly rootProject.ext.deps.android.runtime
+    api rootProject.ext.deps.androidx.annotations
+}
+
